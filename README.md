@@ -155,11 +155,6 @@ I value pragmatic architecture: applying the right level of complexity for the p
 
 </div>
 
-<br/>
-
-> I believe senior engineering is not only about writing code.  
-> It is about making sound technical decisions, reducing unnecessary complexity and building software that remains reliable and maintainable as systems and teams evolve.
-
 ---
 
 ## 🤝 Let's Connect
