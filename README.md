@@ -158,26 +158,6 @@ I focus on building software that can evolve over time without sacrificing **mai
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexSifu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSifu&layout=compact&hide_border=true&langs_count=6" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=AlexSifu&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
