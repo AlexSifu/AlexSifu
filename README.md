@@ -1,18 +1,18 @@
 <div align="center">
 
-# Hi, I'm Alex Geisler Sifuentes 👋
+# Alex Geisler Sifuentes
 
-### Senior Full Stack & DevOps Engineer
+### Senior Software Engineer | Full Stack & DevOps
 
-**.NET • C# • Java • Angular • React • Cloud • DevOps • Software Architecture**
+**.NET • Java • Angular • React • Cloud • DevOps • Software Architecture**
 
-📍 Peru  •  🌎 LATAM & Remote  •  💻 Software Engineering
+📍 Peru &nbsp;•&nbsp; 🌎 LATAM & Remote &nbsp;•&nbsp; 💻 7+ Years in Software Engineering
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Sifuentes-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sifuentesagurto)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alexsifuentesa@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AlexSifu-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AlexSifu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Sifuentes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sifuentesagurto)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexsifuentesa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AlexSifu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexSifu)
 
 <br/>
 
@@ -24,15 +24,22 @@
 
 ## 👨‍💻 About Me
 
-**Senior Full Stack & DevOps Engineer with 7+ years of professional experience** designing, modernizing and delivering enterprise software solutions.
+I'm a **Senior Software Engineer with 7+ years of experience** designing, modernizing and delivering enterprise-grade software solutions across backend, frontend, cloud and DevOps environments.
 
-My core expertise is centered around the **.NET ecosystem**, complemented by experience with **Java/Spring Boot, Angular, React, Azure, AWS and modern DevOps practices**.
+My core expertise is centered around the **.NET ecosystem**, complemented by strong experience with **Java/Spring Boot, Angular, React, Azure, AWS and modern CI/CD practices**.
 
-I approach software from an engineering perspective that combines **architecture, clean code, cloud, automation, security and continuous improvement**.
+I work beyond implementation, contributing to **software architecture, technical decisions, code quality, modernization strategies, automation, security and engineering standards**.
+
+I focus on building systems that are:
 
 <div align="center">
 
-`Scalable`  •  `Maintainable`  •  `Secure`  •  `Testable`  •  `Observable`  •  `Production Ready`
+**Scalable** &nbsp;•&nbsp;
+**Maintainable** &nbsp;•&nbsp;
+**Secure** &nbsp;•&nbsp;
+**Observable** &nbsp;•&nbsp;
+**Testable** &nbsp;•&nbsp;
+**Production Ready**
 
 </div>
 
@@ -40,19 +47,21 @@ I approach software from an engineering perspective that combines **architecture
 
 ## 🧠 Core Expertise
 
-| Backend                       | Frontend                        | Architecture               |
-| ----------------------------- | ------------------------------- | -------------------------- |
-| C# • .NET 6/8 • ASP.NET Core  | Angular • React • TypeScript    | Clean Architecture • SOLID |
-| Java • Spring Boot • Node.js  | JavaScript • RxJS • SCSS        | DDD • CQRS • Microservices |
-| EF Core • REST APIs • OpenAPI | Responsive UI • API Integration | Design Patterns • REST     |
+| Backend Engineering | Frontend Engineering | Architecture | Cloud & DevOps |
+| :--- | :--- | :--- | :--- |
+| C# • .NET 6/8 | Angular • React | Clean Architecture | Azure • AWS |
+| ASP.NET Core • EF Core | TypeScript • JavaScript | SOLID • DDD • CQRS | Docker • Kubernetes |
+| Java • Spring Boot | RxJS • SCSS | Microservices • REST | Terraform • Jenkins |
+| Node.js • REST APIs | Responsive Architecture | Design Patterns | Azure DevOps • Git |
 
 <br/>
 
-| Cloud                    | DevOps              | Databases           | Security           |
-| ------------------------ | ------------------- | ------------------- | ------------------ |
-| Azure • AWS              | Docker • Kubernetes | SQL Server • Oracle | OAuth 2.0 • JWT    |
-| Functions • Lambda       | Terraform • Jenkins | PostgreSQL • MySQL  | OWASP              |
-| App Service • Serverless | Azure DevOps • Git  | Azure SQL           | Secrets Management |
+| Data Engineering | Security | Quality | Engineering |
+| :--- | :--- | :--- | :--- |
+| SQL Server • Oracle | OAuth 2.0 • JWT | Unit Testing | System Design |
+| PostgreSQL • MySQL | OWASP | Integration Testing | Code Reviews |
+| Azure SQL | Secrets Management | API Testing | Technical Leadership |
+| Query Optimization | Secure APIs | Quality Gates | Legacy Modernization |
 
 ---
 
@@ -60,27 +69,11 @@ I approach software from an engineering perspective that combines **architecture
 
 <div align="center">
 
-### Backend & Languages
+<img src="https://skillicons.dev/icons?i=dotnet,cs,java,spring,nodejs,angular,react,ts,js,python" />
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,java,spring,nodejs,python" />
+<br/><br/>
 
-<br/
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap,tailwind" />
-
-<br/>
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,jenkins,git,github,bitbucket" />
-
-<br/>
-
-### Data & Build Tools
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,maven,gradle,npm" />
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,jenkins,git,github,postgres,mysql" />
 
 </div>
 
@@ -90,27 +83,29 @@ I approach software from an engineering perspective that combines **architecture
 
 <div align="center">
 
-**Business Requirements**
-  →  
+**Business Understanding**
+&nbsp; → &nbsp;
+**System Design**
+&nbsp; → &nbsp;
 **Architecture**
-  →  
+&nbsp; → &nbsp;
 **Development**
-  →  
-**Testing**
-  →  
+&nbsp; → &nbsp;
+**Quality**
+&nbsp; → &nbsp;
 **Security**
-  →  
+&nbsp; → &nbsp;
 **CI/CD**
-  →  
-**Cloud**
-  →  
+&nbsp; → &nbsp;
 **Observability**
 
 </div>
 
 <br/>
 
-I focus on building software that can evolve over time without sacrificing **maintainability, performance, security or quality**.
+My engineering approach is based on making technical decisions that balance **business requirements, maintainability, scalability, security and operational reliability**.
+
+I value pragmatic architecture: applying the right level of complexity for the problem instead of introducing technology without a clear engineering benefit.
 
 ---
 
@@ -118,43 +113,52 @@ I focus on building software that can evolve over time without sacrificing **mai
 
 <div align="center">
 
-![Software Architecture](https://img.shields.io/badge/Software%20Architecture-181717?style=flat-square)
-![Backend Engineering](https://img.shields.io/badge/Backend%20Engineering-512BD4?style=flat-square)
-![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-2496ED?style=flat-square)
-![Cloud Native](https://img.shields.io/badge/Cloud%20Native-0078D4?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=flat-square)
-![DevOps](https://img.shields.io/badge/DevOps-D24939?style=flat-square)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-000000?style=flat-square)
-![System Design](https://img.shields.io/badge/System%20Design-FF6F00?style=flat-square)
-![Modernization](https://img.shields.io/badge/Application%20Modernization-5C2D91?style=flat-square)
-![AI](https://img.shields.io/badge/AI%20Integration-3776AB?style=flat-square)
-![Leadership](https://img.shields.io/badge/Technical%20Leadership-0A66C2?style=flat-square)
+`Software Architecture`
+&nbsp;•&nbsp;
+`Backend Engineering`
+&nbsp;•&nbsp;
+`Distributed Systems`
+&nbsp;•&nbsp;
+`Cloud Native`
+&nbsp;•&nbsp;
+`Microservices`
+&nbsp;•&nbsp;
+`DevOps`
+&nbsp;•&nbsp;
+`DevSecOps`
+&nbsp;•&nbsp;
+`System Design`
+&nbsp;•&nbsp;
+`Modernization`
 
 </div>
 
 ---
 
-## 🔐 Engineering Principles
+## 💡 Engineering Mindset
 
 <div align="center">
 
-`Clean Code`
- • 
-`SOLID`
- • 
-`Security by Design`
- • 
-`Automation`
- • 
-`Observability`
- • 
-`Performance`
- • 
-`Scalability`
- • 
-`Resilience`
+**Clean Code**
+&nbsp;•&nbsp;
+**SOLID**
+&nbsp;•&nbsp;
+**Security by Design**
+&nbsp;•&nbsp;
+**Automation First**
+&nbsp;•&nbsp;
+**Observability**
+&nbsp;•&nbsp;
+**Performance**
+&nbsp;•&nbsp;
+**Resilience**
 
 </div>
+
+<br/>
+
+> I believe senior engineering is not only about writing code.  
+> It is about making sound technical decisions, reducing unnecessary complexity and building software that remains reliable and maintainable as systems and teams evolve.
 
 ---
 
@@ -162,13 +166,18 @@ I focus on building software that can evolve over time without sacrificing **mai
 
 <div align="center">
 
-I'm always open to discussing **software architecture, backend engineering, cloud, DevOps and modern software development**.
+Open to conversations around **software architecture, backend engineering, cloud platforms, DevOps, distributed systems and technical leadership**.
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Sifuentes-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sifuentesagurto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Sifuentes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sifuentesagurto)
+[![Email](https://img.shields.io/badge/Email-alexsifuentesa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexsifuentesa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AlexSifu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexSifu)
 
-[![Email](https://img.shields.io/badge/Email-alexsifuentesa%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alexsifuentesa@gmail.com)
+<br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-AlexSifu-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AlexSifu)
+### Senior Software Engineer
 
+**.NET • Java • Cloud • DevOps • Software Architecture**
+
+</div>
